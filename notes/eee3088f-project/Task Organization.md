@@ -1,5 +1,5 @@
 
-Ranked from most difficult to least
+Ranked from most difficult to least (not finished ranking)
 
 • Operate up to 4 motors bidirectionally with the pins available to you (listed in the power pinout table). You will need to control 2x brushed DC motors which could each draw 200mA at the highest voltage of a 1S1P battery (the battery is further specified in the battery section).
 The other 2x motors are for the auxiliary connection and need to operate 500mA each.
