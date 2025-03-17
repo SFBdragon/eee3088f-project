@@ -1,4 +1,4 @@
-= EEE3088F Project
+# EEE3088F Project
 
 Pull down the repo with `git clone https://github.com/SFBdragon/eee3088f-project`
 
