@@ -2,7 +2,9 @@
 
 Pull down the repo with `git clone https://github.com/SFBdragon/eee3088f-project`
 
-Commit (make a version of) your changes with `git commit -A -m "I did XYZ"`
+(maybe use github-cli to manage your credentials `gh auth login`, `gh auth setup-git`)
+
+Commit (make a version of) your changes with `git add -A` `git commit -m "I did XYZ"`
 Push (sync) your changes with `git push origin`
 
 We will be working on our schematics in separate directories initially before combining them later. Please create your own KiCAD project in your own directory: `./kicad/Adedamola`.
