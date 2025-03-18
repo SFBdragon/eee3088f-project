@@ -8,8 +8,8 @@
 ![[budget-table.png]]
 
 Some special components we should probably strongly consider:
-H Bridge Drivers
-Voltage regulators (need Low Drop Out (LDO), consider linear (low efficiency, simply) vs switched-mode (higher efficiency, more complicated))
+- H Bridge Drivers
+- Voltage regulators (need Low Drop Out (LDO), consider linear (low efficiency, simply) vs switched-mode (higher efficiency, more complicated))
 
 
 Shaun's components
