@@ -7,6 +7,10 @@
 
 ![[budget-table.png]]
 
+Some special components we should probably strongly consider:
+H Bridge Drivers
+Voltage regulators
+
 
 Shaun's components
 

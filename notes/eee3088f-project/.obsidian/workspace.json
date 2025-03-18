@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task Organization.md",
+                "file": "Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task Organization"
+              "title": "Components"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Organization.md",
+                "file": "Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Task Organization"
+              "title": "Backlinks for Components"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task Organization.md",
+                "file": "Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Task Organization"
+              "title": "Outgoing links from Components"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task Organization.md",
+                "file": "Components.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Task Organization"
+              "title": "Outline of Components"
             }
           }
         ]
@@ -200,10 +200,10 @@
   "active": "077e358b18515dad",
   "lastOpenFiles": [
     "Schematic Requirements.md",
+    "Task Organization.md",
     "Components.md",
     "resources",
     "resources/budget-table.png",
-    "Task Organization.md",
     "Welcome.md"
   ]
 }
