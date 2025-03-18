@@ -29,8 +29,8 @@
         "SIGTERM"
       ],
       "terminalOptions": {
-        "documentOverride": null,
-        "fontFamily": "FiraCode Nerd Font"
+        "fontFamily": "FiraCode Nerd Font",
+        "documentOverride": null
       },
       "type": "integrated",
       "useWin32Conhost": true
