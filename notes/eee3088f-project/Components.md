@@ -12,6 +12,7 @@ Some special components we should probably strongly consider:
 - Voltage regulators (need Low Drop Out (LDO), consider linear (low efficiency, simply) vs switched-mode (higher efficiency, more complicated))
 
 
+
 Shaun's components
 
 | Component | Unit Cost | N   |
