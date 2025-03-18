@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schematic Requirements.md",
+                "file": "Task Organization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schematic Requirements"
+              "title": "Task Organization"
             }
           }
         ],
@@ -130,7 +130,7 @@
                   },
                   "serial": {
                     "columns": 33,
-                    "data": "…\u001b[38;5;39;1m8f-project\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[38;5;178m !2\u001b[0m  \u001b[38;5;66m15:17:04\r\n\u001b[38;5;76m❯\u001b[0m ",
+                    "data": "…\u001b[38;5;39;1m8f-project\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[38;5;178m !2\u001b[0m  \u001b[38;5;66m15:17:04\r\n\u001b[38;5;76m❯\u001b[0m \u001b[34mgit \u001b[36mlog\r\n\u001b[33mcommit 5b02bd173449a04346d4cdfa3df3bd546a4b442a (\u001b[36;1mHEAD\u001b[33;22m -> \u001b[32;1mmaster\u001b[33;22m, \u001b[31;1morigin/master\u001b[33;22m, \u001b[31;1morigin/HEAD\u001b[33;22m)\r\n\u001b[0mAuthor: Shaun Beautement <sf.beautement@protonmail.com>\r\nDate:   Tue Mar 18 15:20:46 2025 +0200\r\n\r\n    another test: 2025-03-18 15:2\r\n…\u001b[38;5;39;1moject\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[38;5;178m !1\u001b[0m  \u001b[38;5;101m 4s\u001b[38;5;246m \u001b[38;5;66m15:21:19\r\n\u001b[38;5;76m❯\u001b[0m ",
                     "rows": 10
                   }
                 }
@@ -245,9 +245,9 @@
   },
   "active": "a77edbfb0748dd4f",
   "lastOpenFiles": [
-    "Components.md",
     "Schematic Requirements.md",
     "Task Organization.md",
+    "Components.md",
     "resources",
     "resources/budget-table.png",
     "Welcome.md"
