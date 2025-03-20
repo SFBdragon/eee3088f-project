@@ -1,6 +1,4 @@
 
-Ranked from most difficult to least (not finished ranking)
-
 ### Shaun
 
 • Place an INA219 for monitoring the battery on the I2C Bus and configure it correctly with
@@ -10,7 +8,7 @@ respect to the hardware (cannot have BOTH A0 AND A1 on GND)
 
 • Integrate USB C and get 9V out of the USB Host
 
-• Provide 2x External Load Switching at 1A each (High Side connected to your 5V)
+• Charge the battery from the 9V input pin (listed in the power pinout table).
 
 ### Damola
 
@@ -21,5 +19,5 @@ The other 2x motors are for the auxiliary connection and need to operate 500mA e
 
 • Provide an ON/OFF switch. OFF state: battery draw <30uA. ON state: can provide your robot peak current of 2A. The switch needs to shut down 5V and 3V3.
 
-• Charge the battery from the 9V input pin (listed in the power pinout table).
+• Provide 2x External Load Switching at 1A each (High Side connected to your 5V)
 
