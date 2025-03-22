@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shaun's Design Notes/Battery Monitoring.md",
+                "file": "Shaun's Design Notes/Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Battery Monitoring"
+              "title": "Questions"
             }
           }
         ],
@@ -130,7 +130,7 @@
                   },
                   "serial": {
                     "columns": 33,
-                    "data": "…\u001b[38;5;39;1mproject\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[38;5;178m !2\u001b[38;5;39m ?6\u001b[0m  \u001b[38;5;66m10:49:52\r\n\u001b[38;5;76m❯\u001b[0m ",
+                    "data": "…\u001b[38;5;39;1m8f-project\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[38;5;178m !2\u001b[0m  \u001b[38;5;66m10:18:08\r\n\u001b[38;5;76m❯\u001b[0m ",
                     "rows": 9
                   }
                 }
@@ -245,10 +245,10 @@
   },
   "active": "a77edbfb0748dd4f",
   "lastOpenFiles": [
-    "Shaun's Design Notes/Tasks.md",
-    "Shaun's Design Notes/Battery Monitoring.md",
-    "Shaun's Design Notes/USB Power Delivery.md",
     "Shaun's Design Notes/Battery Charging.md",
+    "Shaun's Design Notes/USB Power Delivery.md",
+    "Shaun's Design Notes/Battery Monitoring.md",
+    "Shaun's Design Notes/Tasks.md",
     "Shaun's Design Notes/Questions.md",
     "Shaun's Design Notes/ChatGPT USB Advice.md",
     "Task Organization.md",
