@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shaun's Design Notes/Questions.md",
+                "file": "Damola's Design Notes/Operation of 4 Motors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "Operation of 4 Motors"
             }
           }
         ],
@@ -130,7 +130,7 @@
                   },
                   "serial": {
                     "columns": 33,
-                    "data": "…\u001b[38;5;39;1m8f-project\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[38;5;178m !1\u001b[0m  \u001b[38;5;66m12:48:18\r\n\u001b[38;5;76m❯\u001b[0m ",
+                    "data": "…\u001b[38;5;39;1mproject\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[38;5;178m !3\u001b[38;5;39m ?5\u001b[0m  \u001b[38;5;66m12:44:47\r\n\u001b[38;5;76m❯\u001b[0m ",
                     "rows": 9
                   }
                 }
@@ -245,23 +245,23 @@
   },
   "active": "a77edbfb0748dd4f",
   "lastOpenFiles": [
+    "Shaun's Design Notes/Battery Charging.md",
+    "Shaun's Design Notes/Battery Monitoring.md",
+    "Shaun's Design Notes/USB Power Delivery.md",
+    "Components.md",
+    "Schematic Requirements.md",
+    "Task Organization.md",
+    "Damola's Design Notes/Operation of 4 Motors.md",
+    "Shaun's Design Notes/Questions.md",
+    "resources/budget-table.png",
     "Damola's Design Notes/Provide an On and Off switch.md",
     "Damola's Design Notes/Provide a 3V3 and 5V.md",
     "Damola's Design Notes/Provide 2x External Load Switching.md",
-    "Damola's Design Notes/Operation of 4 Motors.md",
-    "Shaun's Design Notes/Questions.md",
     "Damola's Design Notes",
-    "Shaun's Design Notes/Battery Charging.md",
-    "Shaun's Design Notes/USB Power Delivery.md",
-    "Shaun's Design Notes/Battery Monitoring.md",
     "Shaun's Design Notes/Tasks.md",
     "Shaun's Design Notes/ChatGPT USB Advice.md",
-    "Task Organization.md",
-    "Schematic Requirements.md",
     "Shaun's Design Notes",
-    "Components.md",
     "resources",
-    "resources/budget-table.png",
     "Welcome.md"
   ]
 }
