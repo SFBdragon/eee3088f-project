@@ -1,0 +1,1 @@
+Provide an ON/OFF switch. OFF state: battery draw <30uA. ON state: can provide your robot peak current of 2A. The switch needs to shut down 5V and 3V3.
