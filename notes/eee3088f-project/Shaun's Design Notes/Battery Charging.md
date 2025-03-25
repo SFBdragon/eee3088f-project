@@ -54,3 +54,11 @@ We need to invert the input.
 
 $R_{s,slow} = R_{s,eff,slow} - R_{DS,on} = $
 
+---
+
+Buck converter
+
+https://www.ti.com/lit/ds/symlink/tps5430.pdf?ts=1742809000146
+
+$$L_{MIN} = \frac{V_{OUT(MAX)}(V_{IN(MAX)}-V_{OUT})}{V_{IN(MAX)} K_{IND} I_{OUT} F_{SW}} = \frac{5(9-5)}{9*0.3*0.8*500000} = 18.5\mu H$$
+
