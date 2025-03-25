@@ -6,6 +6,7 @@
       {
         "id": "d27475123f471e7d",
         "type": "tabs",
+        "dimension": 74.35897435897436,
         "children": [
           {
             "id": "447907a2084b22f8",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operation of 4 Motors.md",
+                "file": "Provide a 3V3 and 5V.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operation of 4 Motors"
+              "title": "Provide a 3V3 and 5V"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "561615be20a83503",
         "type": "tabs",
+        "dimension": 25.64102564102564,
         "children": [
           {
             "id": "523af4d7708d711f",
@@ -94,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b1a4747bac82cb78",
@@ -186,10 +188,14 @@
   },
   "active": "447907a2084b22f8",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Provide an On and Off switch.md",
+    "Untitled.md",
     "Provide a 3V3 and 5V.md",
+    "Untitled 1",
+    "Untitled",
+    "Operation of 4 Motors.md",
     "Provide 2x External Load Switching.md",
-    "Operation of 4 Motors.md"
+    "Provide an On and Off switch.md",
+    "Datasheets",
+    "Welcome.md"
   ]
 }
