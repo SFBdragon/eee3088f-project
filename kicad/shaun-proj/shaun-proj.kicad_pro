@@ -460,7 +460,8 @@
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": [
-      "CustomSymbols"
+      "CustomSymbols",
+      "Interface_USB"
     ]
   },
   "meta": {

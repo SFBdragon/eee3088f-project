@@ -130,8 +130,8 @@
                   },
                   "serial": {
                     "columns": 33,
-                    "data": "…\u001b[38;5;39;1mroject\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[38;5;178m !7\u001b[38;5;39m ?13\u001b[0m  \u001b[38;5;66m23:39:23\r\n\u001b[38;5;76m❯\u001b[0m ",
-                    "rows": 9
+                    "data": "…\u001b[38;5;39;1m3088f-project\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[0m  \u001b[38;5;66m09:58:46\r\n\u001b[38;5;76m❯\u001b[0m ",
+                    "rows": 10
                   }
                 }
               },
@@ -243,7 +243,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a77edbfb0748dd4f",
+  "active": "d1dd1146e8b7ff74",
   "lastOpenFiles": [
     "Shaun's Design Notes/USB Power Delivery.md",
     "Damola's Design Notes/Provide a 3V3 and 5V.md",
