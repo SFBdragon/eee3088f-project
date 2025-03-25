@@ -12,3 +12,7 @@ Operate up to 4 motors bidirectionally with the pins available to you (listed in
 ## Thoughts and findings:
 - T
 - The **highest voltage** of a fully charged lithium-ion cell in a 1S configuration is **4.2V**.
+
+
+## Decisions:
+- Using the 
