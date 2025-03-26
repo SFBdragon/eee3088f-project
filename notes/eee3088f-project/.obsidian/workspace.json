@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task Organization.md",
+                "file": "Shaun's Design Notes/Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task Organization"
+              "title": "Questions"
             }
           }
         ],
@@ -130,8 +130,8 @@
                   },
                   "serial": {
                     "columns": 33,
-                    "data": "…\u001b[38;5;39;1m3088f-project\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[0m  \u001b[38;5;66m09:58:46\r\n\u001b[38;5;76m❯\u001b[0m ",
-                    "rows": 10
+                    "data": "…\u001b[38;5;39;1mroject\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[38;5;178m !11\u001b[38;5;39m ?7\u001b[0m  \u001b[38;5;66m00:47:39\r\n\u001b[38;5;76m❯\u001b[0m ",
+                    "rows": 9
                   }
                 }
               },
@@ -243,8 +243,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1dd1146e8b7ff74",
+  "active": "a77edbfb0748dd4f",
   "lastOpenFiles": [
+    "Task Organization.md",
     "Shaun's Design Notes/USB Power Delivery.md",
     "Damola's Design Notes/Provide a 3V3 and 5V.md",
     "Shaun's Design Notes/Questions.md",
@@ -253,7 +254,6 @@
     "Damola's Design Notes/Operation of 4 Motors.md",
     "Components.md",
     "Schematic Requirements.md",
-    "Task Organization.md",
     "resources/budget-table.png",
     "Damola's Design Notes/Provide an On and Off switch.md",
     "Damola's Design Notes/Provide 2x External Load Switching.md",
