@@ -1,5 +1,9 @@
 
-Is the 9V USB Host using the PD protocol?
+Should we worry about rotationsk
 
-What address does the MCU expect to find the INA219 at? (besides not 0b1000000)
+---
 
+Where are your footprints
+Why are the mO resistors at AISEN/BISEN different
+Why are there 22uF caps everywhere
+What's PG doing connected to the output

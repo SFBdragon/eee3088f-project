@@ -8617,7 +8617,7 @@
 			)
 		)
 	)
-	(global_label "MOTOR3_B_OUT"
+	(global_label "MOTOR4_B_OUT"
 		(shape input)
 		(at 243.84 102.87 180)
 		(fields_autoplaced yes)
@@ -9148,7 +9148,7 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 13.97 81.28) (xy 118.11 81.28) (xy 118.11 13.97) (xy 13.97 13.97)
+				(xy 13.97 128.27) (xy 118.11 128.27) (xy 118.11 195.58) (xy 13.97 195.58)
 			)
 			(stroke
 				(width 0)
@@ -9157,7 +9157,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 42c23dc6-2bcc-4320-bbcd-865a06c91c6a)
+			(uuid 04254a84-5da9-46c9-aca3-b6455cf0efc6)
 		)
 	)
 	(rule_area
@@ -9172,7 +9172,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 42deeccf-d94c-48df-a829-cc9be96da496)
+			(uuid 0bfc303a-f42e-4940-80ad-4f6ef4be9b19)
 		)
 	)
 	(rule_area
@@ -9187,67 +9187,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 78a51940-b78e-4034-8707-e6241c89bbd0)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 171.45 59.69) (xy 120.65 59.69) (xy 120.65 13.97) (xy 171.45 13.97)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 885774c8-5d35-4774-be49-0e7d0ad20ff2)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 13.97 125.73) (xy 118.11 125.73) (xy 118.11 83.82) (xy 13.97 83.82)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 88a85ddc-9734-4192-b4e6-4ac8e4466492)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 13.97 128.27) (xy 118.11 128.27) (xy 118.11 195.58) (xy 13.97 195.58)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid b651b0d4-727b-4b8b-96b7-94c6451a08c6)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 120.65 62.23) (xy 171.45 62.23) (xy 171.45 90.17) (xy 120.65 90.17)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid bb7e18ff-b028-4ffa-ab79-c2ebe27e6d41)
+			(uuid 275d8355-a15d-4671-bd3c-83a1eeb16869)
 		)
 	)
 	(rule_area
@@ -9262,7 +9202,67 @@
 			(fill
 				(type none)
 			)
-			(uuid d4505070-2018-4a24-99b0-61d5dc8a39f6)
+			(uuid 45f2237b-a0aa-4f84-a674-67e4c62c7917)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 171.45 59.69) (xy 120.65 59.69) (xy 120.65 13.97) (xy 171.45 13.97)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid c70cb9c9-63e9-40ab-9096-5937059f468d)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 13.97 125.73) (xy 118.11 125.73) (xy 118.11 83.82) (xy 13.97 83.82)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid e5cf5e0c-0051-4da2-b0c8-763c3ff47136)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 120.65 62.23) (xy 171.45 62.23) (xy 171.45 90.17) (xy 120.65 90.17)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid efa72eec-6c0d-4c19-a3f0-958f5f887b09)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 13.97 81.28) (xy 118.11 81.28) (xy 118.11 13.97) (xy 13.97 13.97)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid f49326a2-f1ac-4aaf-98e2-88a01ac033cd)
 		)
 	)
 	(rule_area
@@ -9277,7 +9277,7 @@
 			(fill
 				(type none)
 			)
-			(uuid dc31627f-f14b-41a5-a32a-0836514f4933)
+			(uuid ffcf1d32-2897-4064-9276-ef071e1eec9c)
 		)
 	)
 	(symbol
@@ -9831,7 +9831,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 169.672 134.62 90)
 			(effects
 				(font
@@ -10171,7 +10171,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 169.672 102.87 90)
 			(effects
 				(font
@@ -10433,7 +10433,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 125.222 30.48 90)
 			(effects
 				(font
@@ -11529,7 +11529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 158.75 116.078 90)
 			(effects
 				(font
@@ -15285,7 +15285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 158.75 147.828 90)
 			(effects
 				(font
@@ -15323,6 +15323,48 @@
 				(path "/dda18d53-e032-419d-b3dd-4e5b9f14d709"
 					(reference "R10")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 166.37)
+		(size 53.34 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ec983d4d-5095-46f0-86ed-f3ff47f56e05")
+		(property "Sheetname" "Damola's Sheet"
+			(at 120.65 165.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "damola.kicad_sch"
+			(at 120.65 196.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shaun-proj"
+				(path "/dda18d53-e032-419d-b3dd-4e5b9f14d709"
+					(page "2")
 				)
 			)
 		)
