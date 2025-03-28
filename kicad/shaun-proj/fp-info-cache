@@ -1,4 +1,4 @@
-24748198551099864
+24753428740699809
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68516,6 +68516,34 @@ threaded screw
 4
 1
 MyLibrary
+DAMOLA_VSON-14-1EP_3.4x4.4mm_P0.5mm_EP1.6x4.2mm
+VSON, 14 Pin (https://www.ti.com/lit/ds/symlink/lp8868x-q1.pdf#page=45), generated with kicad-footprint-generator ipc_noLead_generator.py
+VSON NoLead
+0
+22
+15
+MyLibrary
+Olympia
+
+
+0
+0
+0
+MyLibrary
+PommeDarker
+
+
+0
+0
+0
+MyLibrary
+SHAUN_VSON-14-1EP_3x4.45mm_P0.65mm_EP1.6x4.2mm_ThermalVias
+VSON, 14 Pin (https://www.ti.com/lit/ds/symlink/lp8868x-q1.pdf#page=45), generated with kicad-footprint-generator ipc_noLead_generator.py
+VSON NoLead
+0
+34
+15
+MyLibrary
 SS-12D11G3R
 
 
@@ -68523,12 +68551,12 @@ SS-12D11G3R
 5
 3
 MyLibrary
-Switch
+UCT_LOGO
 
 
 0
-1
-1
+0
+0
 MyLibrary
 USB_C_Receptacle_G-Switch_GT-USB-7010ASV_MOD
 USB Type C, right-angle, SMT, https://datasheet.lcsc.com/lcsc/2204071530_G-Switch-GT-USB-7010ASV_C2988369.pdf
@@ -68536,13 +68564,6 @@ USB C Type-C Receptacle SMD
 0
 20
 17
-MyLibrary
-Untitled
-
-
-0
-0
-0
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads

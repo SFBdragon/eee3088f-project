@@ -321,7 +321,7 @@
 	(pad "S1" thru_hole oval
 		(at -4.32 -3.125)
 		(size 1 2.1)
-		(drill oval 0.6 1.7)
+		(drill oval 0.7 1.7)
 		(property pad_prop_heatsink)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -330,7 +330,7 @@
 	(pad "S1" thru_hole oval
 		(at -4.32 1.075)
 		(size 1 1.8)
-		(drill oval 0.6 1.4)
+		(drill oval 0.7 1.4)
 		(property pad_prop_heatsink)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -339,7 +339,7 @@
 	(pad "S1" thru_hole oval
 		(at 4.32 -3.125)
 		(size 1 2.1)
-		(drill oval 0.6 1.7)
+		(drill oval 0.7 1.7)
 		(property pad_prop_heatsink)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
@@ -348,7 +348,7 @@
 	(pad "S1" thru_hole oval
 		(at 4.32 1.075)
 		(size 1 1.8)
-		(drill oval 0.6 1.4)
+		(drill oval 0.7 1.4)
 		(property pad_prop_heatsink)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
