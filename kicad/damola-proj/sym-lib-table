@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Please_Be_The_Correct_Symbol")(type "KiCad")(uri "${KIPRJMOD}/Please_Be_The_Correct_Symbol.kicad_sym")(options "")(descr ""))
+  (lib (name "Definiely_the_correct_symbol")(type "KiCad")(uri "${KIPRJMOD}/Definiely_the_correct_symbol.kicad_sym")(options "")(descr ""))
+)
