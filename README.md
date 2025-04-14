@@ -1,6 +1,6 @@
 # EEE3088F Project
 
-> Power board for a micro-mouse [(Veritasium video)](https://www.youtube.com/watch?v=ZMQbHMgK2rw) designed for EEE3088F Design Principles at University of Cape Town.
+> Power board for a micro-mouse [(Veritasium video)](https://www.youtube.com/watch?v=ZMQbHMgK2rw) designed for EEE3088F Design Principles @ UCT
 
 #### Team #69
 
