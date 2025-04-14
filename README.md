@@ -34,6 +34,8 @@ The board is shaped to fit to and interface with
 
 The schematic and PCB design is drafted in [KiCAD](https://www.kicad.org/).
 
+Some prototype simulation in [LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) are included in `ltspice/`.
+
 Some working notes are included under `notes/` and can be viewed in [Obsidian](https://obsidian.md/). (But are best unseen ^-^)
 
 ### License 
