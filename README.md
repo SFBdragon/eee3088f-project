@@ -34,7 +34,7 @@ The board is shaped to fit to and interface with
 
 The schematic and PCB design is drafted in [KiCAD](https://www.kicad.org/).
 
-Our working notes are included under `notes/` and are best viewed in [Obsidian](https://obsidian.md/). (Even better, not viewed at all ^-^)
+Some working notes are included under `notes/` and can be viewed in [Obsidian](https://obsidian.md/). (But are best unseen ^-^)
 
 ### License 
 
