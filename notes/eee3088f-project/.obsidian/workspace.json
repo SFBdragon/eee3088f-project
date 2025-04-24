@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shaun's Design Notes/Footprint Fuckups.md",
+                "file": "Shaun's Design Notes/Battery Charging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Footprint Fuckups"
+              "title": "Battery Charging"
             }
           }
         ],
@@ -130,8 +130,8 @@
                   },
                   "serial": {
                     "columns": 33,
-                    "data": "…\u001b[38;5;39;1mproject\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[38;5;178m !4\u001b[38;5;39m ?2\u001b[0m  \u001b[38;5;66m15:34:04\r\n\u001b[38;5;76m❯\u001b[0m ",
-                    "rows": 10
+                    "data": "…\u001b[38;5;39;1moject\u001b[38;5;246;22m \u001b[38;5;76m master\u001b[38;5;178m !10\u001b[38;5;39m ?10\u001b[0m  \u001b[38;5;66m19:09:07\r\n\u001b[38;5;76m❯\u001b[0m ",
+                    "rows": 9
                   }
                 }
               },
@@ -243,18 +243,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc8278b29b796e36",
+  "active": "a77edbfb0748dd4f",
   "lastOpenFiles": [
+    "Shaun's Design Notes/USB Power Delivery.md",
+    "Task Organization.md",
+    "Shaun's Design Notes/Questions.md",
+    "Shaun's Design Notes/Footprint Fuckups.md",
     "Shaun's Design Notes/resources/Pasted image 20250404172052.png",
     "Shaun's Design Notes/resources/Pasted image 20250404171948.png",
     "Shaun's Design Notes/resources/Pasted image 20250404171915.png",
     "Shaun's Design Notes/resources/Pasted image 20250404171827.png",
     "Pasted image 20250404171824.png",
-    "Shaun's Design Notes/Footprint Fuckups.md",
     "Shaun's Design Notes/resources",
-    "Shaun's Design Notes/Questions.md",
-    "Task Organization.md",
-    "Shaun's Design Notes/USB Power Delivery.md",
     "Damola's Design Notes/Provide a 3V3 and 5V.md",
     "Shaun's Design Notes/Battery Monitoring.md",
     "Shaun's Design Notes/Battery Charging.md",

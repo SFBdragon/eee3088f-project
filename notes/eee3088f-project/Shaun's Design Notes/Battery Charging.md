@@ -52,7 +52,7 @@ $R_{s,bypass} = 263.1m\Omega$
 
 We need to invert the input.
 
-$R_{s,slow} = R_{s,eff,slow} - R_{DS,on} = $
+$R_{s,slow} = R_{s,eff,slow} - R_{DS,on} =$
 
 ---
 
