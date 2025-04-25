@@ -9436,10 +9436,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "18407001-2ab5-4972-aea1-fa20c660ea9c")
 		(property "Reference" "JP1"
-			(at 251.46 41.9099 90)
+			(at 250.698 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9454,6 +9453,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
@@ -10472,10 +10472,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "35fe40ae-c7e3-4cbd-b036-d708f2e6be7c")
 		(property "Reference" "TP1"
-			(at 49.53 22.0979 0)
+			(at 49.022 23.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10490,6 +10489,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
@@ -10764,7 +10764,7 @@
 		(dnp no)
 		(uuid "4b1438e4-320e-4d87-a7d0-9822cd92d401")
 		(property "Reference" "JP5"
-			(at 246.38 15.24 0)
+			(at 246.38 18.796 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10777,6 +10777,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
@@ -10975,10 +10976,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6127f182-76df-44e4-b85d-d78aed8fa3f7")
 		(property "Reference" "JP2"
-			(at 260.35 41.9099 90)
+			(at 259.842 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10993,6 +10993,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
@@ -11588,7 +11589,7 @@
 		(dnp no)
 		(uuid "803d3121-bd14-466e-9438-3d15da2045c8")
 		(property "Reference" "TP14"
-			(at 90.932 88.392 0)
+			(at 90.424 88.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12501,7 +12502,7 @@
 		(dnp no)
 		(uuid "a1c4e3cc-73ce-4be8-9c1d-a08efe3a9583")
 		(property "Reference" "JP4"
-			(at 205.486 15.494 0)
+			(at 203.2 18.796 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12514,6 +12515,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
@@ -12566,10 +12568,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a2791d17-8f72-4057-bd6c-9f481957559b")
 		(property "Reference" "JP3"
-			(at 152.4 34.2899 90)
+			(at 152.146 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12584,6 +12585,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
@@ -12935,7 +12937,7 @@
 		(dnp no)
 		(uuid "ace63dc1-cecc-44e5-b7d3-8b19a16b93d3")
 		(property "Reference" "TP11"
-			(at 236.22 17.0179 0)
+			(at 235.712 18.542 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12950,6 +12952,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
@@ -13219,10 +13222,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b5137520-9058-4f26-b9b9-5fe30b339dda")
 		(property "Reference" "TP8"
-			(at 96.52 138.9379 0)
+			(at 96.012 140.208 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13237,6 +13239,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
@@ -14057,10 +14060,9 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "eeeb9ecf-4a1e-49da-8be8-08886b8d859c")
 		(property "Reference" "TP2"
-			(at 152.4 47.7519 0)
+			(at 148.336 51.562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14075,6 +14077,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"

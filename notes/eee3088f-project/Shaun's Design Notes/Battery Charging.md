@@ -24,7 +24,7 @@ $I_{BAT}$ = 200mA - 600mA ($\pm 100$mA)
 | [TP5100](https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588884095233769472) |         |          | No     | Buck, Tiny Rs                                           | [link](https://jlcpcb.com/partdetail/solaic-SLM6305/C711584)               |
 | BQ24610                                                                                |         |          | No     | Buck, Tiny Rs, Seriously overkill (2x costs $1.7)       |                                                                            |
 |                                                                                        |         |          |        |                                                         |                                                                            |
-
+![[Pasted image 20250424195714.png]]
 XL1059 (buck converter IC, basic)
 +FM407S42 (linear battery management IC for charging control)
 +MOSFET switching the resistance
