@@ -32,8 +32,7 @@ https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588893818120769536
 IP2721
 Can request 9V directly without uC
 
-
-https://www.ti.com/cn/lit/ds/symlink/tusb320lai.pdf?ts=1742499259027
+https://www.ti.com/lit/ds/symlink/tusb320.pdf?ts=1745478480336
 Not sure if this actually does what I need
 
 https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589839603521269760
