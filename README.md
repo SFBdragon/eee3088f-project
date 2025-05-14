@@ -1,9 +1,10 @@
 # EEE3088F Project
 
-> Power board for a micro-mouse [(Veritasium video)](https://www.youtube.com/watch?v=ZMQbHMgK2rw) designed for EEE3088F Design Principles @ UCT
+> Power board for a micro-mouse designed for EEE3088F Engineering Design Principles @ UCT
 
-#### Team #69
+#### Authors
 
+_Team #69_
 - Shaun Beautement
 - Adedamola Yusuff
 
@@ -23,7 +24,7 @@ The board aims to meet the following requirements:
     - OFF state: battery draw <30uA.
     - ON state: can provide your robot peak current of 2A.
 
-The board is designed to be printable with PCBA for most components for under $70 with JLCPCB. (As-is, the design costs about $50, not including the JST and 2x16 connector, which was provided to us.)
+The board is designed to be printable with PCBA for most components for under $70 with JLCPCB. As-is, the design costs about $50, not including the JST and 2x16 connector, which was provided to us.
 
 The board is shaped to fit to and interface with
 - [Justin Pead](https://ebe.uct.ac.za/department-electrical-engineering/contacts/justin-pead)'s micro-mouse (2025 version)
@@ -32,11 +33,22 @@ The board is shaped to fit to and interface with
 
 ### Software
 
-The schematic and PCB design is drafted in [KiCAD](https://www.kicad.org/).
+The schematic and PCB design is drafted in [KiCAD](https://www.kicad.org/), with metadata included for JLCPCB using [KiCAD JLCPCB Tools](https://github.com/Bouni/kicad-jlcpcb-tools).
 
-Some prototype simulation in [LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) are included in `ltspice/`.
+Some prototype simulations in [LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) are included in `ltspice/`.
 
-Some working notes are included under `notes/` and can be viewed in [Obsidian](https://obsidian.md/). (But are best unseen ^-^)
+Some working notes are included under `notes/` and can be viewed in [Obsidian](https://obsidian.md/). But are best unseen.
+
+### Usage Warning
+
+It is not recommended to use this design as-is, as the board is incapable of delivering regulated supply voltages and driving motors.
+
+With this design:
+- There was a short from the buck-boosts' (TPS63020) VIN pins to GND, seemingly through the IC (without having powered the board). The cause is unclear at time of writing.
+- The motor drivers were not operational. The cause is unclear at time of writing, and may have been a defieciency in the testing methodology.
+- There are some capacitors with incorrect footprints.
+
+These have not been corrected for at time of writing, largely to preserve the state of the design for project submission.
 
 ### License 
 
