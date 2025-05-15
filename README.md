@@ -47,6 +47,7 @@ With this design:
 - There was a short from the buck-boosts' (TPS63020) VIN pins to GND, seemingly through the IC (without having powered the board). The cause is unclear at time of writing.
 - The motor drivers were not operational. The cause is unclear at time of writing, and may have been a defieciency in the testing methodology.
 - There are some capacitors with incorrect footprints.
+- The USB C port is too far back on the board.
 
 These have not been corrected for at time of writing, largely to preserve the state of the design for project submission.
 
